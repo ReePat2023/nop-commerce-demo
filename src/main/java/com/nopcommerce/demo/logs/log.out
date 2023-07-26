@@ -1,0 +1,121 @@
+2023-07-26 23:07:802 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:769 INFO  ComputerPage :33 - Verify computers text.[[ChromeDriver: chrome on windows (6d402e936d0332401ab5c3ef3d869248)] -> xpath: //h1[contains(text(),'Computers')]]
+2023-07-26 23:07:415 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:761 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:517 INFO  DesktopsPage :35 - Verify desktops text.[[ChromeDriver: chrome on windows (103fc1a413df4c68b8c97aff7a1b4267)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-07-26 23:07:844 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:582 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:377 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (291813f554f384120b27e7b0f952c332)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:270 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.2 GHz Intel Pentium Dual-Core E2200from drop down[[ChromeDriver: chrome on windows (291813f554f384120b27e7b0f952c332)] -> id: product_attribute_1]
+2023-07-26 23:07:688 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.2 GBfrom drop down[[ChromeDriver: chrome on windows (291813f554f384120b27e7b0f952c332)] -> id: product_attribute_2]
+2023-07-26 23:07:862 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.320 GB
+2023-07-26 23:07:44 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Home [+$50.00]
+2023-07-26 23:07:285 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (291813f554f384120b27e7b0f952c332)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:669 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (291813f554f384120b27e7b0f952c332)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:289 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:253 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:123 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (1529189aa159fbc0863abe087608e8a9)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:132 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]from drop down[[ChromeDriver: chrome on windows (1529189aa159fbc0863abe087608e8a9)] -> id: product_attribute_1]
+2023-07-26 23:07:360 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.4GB [+$20.00]from drop down[[ChromeDriver: chrome on windows (1529189aa159fbc0863abe087608e8a9)] -> id: product_attribute_2]
+2023-07-26 23:07:597 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.400 GB [+$100.00]
+2023-07-26 23:07:739 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Premium [+$60.00]
+2023-07-26 23:07:985 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (1529189aa159fbc0863abe087608e8a9)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:350 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (1529189aa159fbc0863abe087608e8a9)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:173 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:758 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:491 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (5614c5e8473be2c35f01adbd01ef8b68)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:421 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]from drop down[[ChromeDriver: chrome on windows (5614c5e8473be2c35f01adbd01ef8b68)] -> id: product_attribute_1]
+2023-07-26 23:07:645 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.8GB [+$60.00]from drop down[[ChromeDriver: chrome on windows (5614c5e8473be2c35f01adbd01ef8b68)] -> id: product_attribute_2]
+2023-07-26 23:07:881 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.320 GB
+2023-07-26 23:07:42 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Home [+$50.00]
+2023-07-26 23:07:315 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (5614c5e8473be2c35f01adbd01ef8b68)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:690 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (5614c5e8473be2c35f01adbd01ef8b68)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:402 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (4a48e3c29106c3e92dcc75b1c6e911bd)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:608 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (4a48e3c29106c3e92dcc75b1c6e911bd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-26 23:07:906 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (cdc61774a6c7fc9325e727de3d093f1c)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:386 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (cdc61774a6c7fc9325e727de3d093f1c)] -> id: Email]
+2023-07-26 23:07:639 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (cdc61774a6c7fc9325e727de3d093f1c)] -> name: Password]
+2023-07-26 23:07:675 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (cdc61774a6c7fc9325e727de3d093f1c)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:253 INFO  LoginPage :59 - Verify error message[[ChromeDriver: chrome on windows (cdc61774a6c7fc9325e727de3d093f1c)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2023-07-26 23:07:970 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (c491ec4e14dfde061c8331ace3e1fc9c)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:279 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (c491ec4e14dfde061c8331ace3e1fc9c)] -> id: Email]
+2023-07-26 23:07:464 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (c491ec4e14dfde061c8331ace3e1fc9c)] -> name: Password]
+2023-07-26 23:07:508 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (c491ec4e14dfde061c8331ace3e1fc9c)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:208 INFO  LoginPage :64 - Verify logout link.Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-26 23:07:127 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (4ef636f2235fb93cc73080df12058a2f)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:675 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (4ef636f2235fb93cc73080df12058a2f)] -> id: Email]
+2023-07-26 23:07:892 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (4ef636f2235fb93cc73080df12058a2f)] -> name: Password]
+2023-07-26 23:07:930 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (4ef636f2235fb93cc73080df12058a2f)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:610 INFO  LoginPage :69 - Click on logout link.Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-26 23:07:363 INFO  HomePage :56 - Click on register link.[[ChromeDriver: chrome on windows (692758310502b98260de1a37031bd598)] -> xpath: //a[contains(text(),'Register')]]
+2023-07-26 23:07:139 INFO  RegisterPage :81 - Verify register text[[ChromeDriver: chrome on windows (692758310502b98260de1a37031bd598)] -> xpath: //h1[contains(text(),'Register')]]
+2023-07-26 23:07:637 INFO  HomePage :56 - Click on register link.[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> xpath: //a[contains(text(),'Register')]]
+2023-07-26 23:07:869 INFO  RegisterPage :140 - Click on register button[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: register-button]
+2023-07-26 23:07:166 INFO  RegisterPage :144 - Verify first name error[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: FirstName-error]
+2023-07-26 23:07:249 INFO  RegisterPage :148 - Verify last name error[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: LastName-error]
+2023-07-26 23:07:312 INFO  RegisterPage :160 - Verify email error[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: Email-error]
+2023-07-26 23:07:368 INFO  RegisterPage :152 - Verify password error[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: Password-error]
+2023-07-26 23:07:423 INFO  RegisterPage :156 - Verify confirm password error[[ChromeDriver: chrome on windows (a30d6f70a1afe2d75e3d4b625e23f9da)] -> id: ConfirmPassword-error]
+2023-07-26 23:07:16 INFO  HomePage :56 - Click on register link.[[ChromeDriver: chrome on windows (e0c757a16a94fdc83d51469f565c9059)] -> xpath: //a[contains(text(),'Register')]]
+2023-07-26 23:07:447 INFO  RegisterPage :85 - Select gender.Maleradio button
+2023-07-26 23:07:685 INFO  RegisterPage :108 - Enter first name.Sarvatin first name field[[ChromeDriver: chrome on windows (e0c757a16a94fdc83d51469f565c9059)] -> id: FirstName]
+2023-07-26 23:07:851 INFO  RegisterPage :112 - Enter last name.Shaikhin last name field[[ChromeDriver: chrome on windows (e0c757a16a94fdc83d51469f565c9059)] -> id: LastName]
+2023-07-26 23:07:19 INFO  RegisterPage :116 - Enter day for date of birth.09in day field[[ChromeDriver: chrome on windows (e0c757a16a94fdc83d51469f565c9059)] -> name: DateOfBirthDay]
+2023-07-26 23:07:14 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:362 INFO  ComputerPage :33 - Verify computers text.[[ChromeDriver: chrome on windows (bf97af1ffdee9cea1732f2656aacbebe)] -> xpath: //h1[contains(text(),'Computers')]]
+2023-07-26 23:07:97 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:761 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:794 INFO  DesktopsPage :35 - Verify desktops text.[[ChromeDriver: chrome on windows (c8cb60a10a293c93914d8b5b25b3fec0)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-07-26 23:07:943 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:284 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:956 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (544c45aef673ed722d338fb52f12ae97)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:861 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.2 GHz Intel Pentium Dual-Core E2200from drop down[[ChromeDriver: chrome on windows (544c45aef673ed722d338fb52f12ae97)] -> id: product_attribute_1]
+2023-07-26 23:07:155 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.2 GBfrom drop down[[ChromeDriver: chrome on windows (544c45aef673ed722d338fb52f12ae97)] -> id: product_attribute_2]
+2023-07-26 23:07:335 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.320 GB
+2023-07-26 23:07:514 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Home [+$50.00]
+2023-07-26 23:07:745 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (544c45aef673ed722d338fb52f12ae97)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:85 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (544c45aef673ed722d338fb52f12ae97)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:679 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:120 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:891 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (f8cd2427394681799da0e59d6ba7bddd)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:572 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]from drop down[[ChromeDriver: chrome on windows (f8cd2427394681799da0e59d6ba7bddd)] -> id: product_attribute_1]
+2023-07-26 23:07:792 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.4GB [+$20.00]from drop down[[ChromeDriver: chrome on windows (f8cd2427394681799da0e59d6ba7bddd)] -> id: product_attribute_2]
+2023-07-26 23:07:989 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.400 GB [+$100.00]
+2023-07-26 23:07:127 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Premium [+$60.00]
+2023-07-26 23:07:357 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (f8cd2427394681799da0e59d6ba7bddd)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:702 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (f8cd2427394681799da0e59d6ba7bddd)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:700 INFO  HomePage :41 - Select top menu.Computersfrom optionsComputers
+2023-07-26 23:07:319 INFO  ComputerPage :39 - Select option from sublist.Desktopsfrom options
+2023-07-26 23:07:154 INFO  DesktopsPage :55 - Click on build your own computer.[[ChromeDriver: chrome on windows (be02b262fb9ef5963e0295b2256d6b15)] -> xpath: //a[contains(text(),'Build your own computer')]]
+2023-07-26 23:07:571 INFO  BuildYourOwnComputerPage :56 - Select processor from drop down list.2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]from drop down[[ChromeDriver: chrome on windows (be02b262fb9ef5963e0295b2256d6b15)] -> id: product_attribute_1]
+2023-07-26 23:07:811 INFO  BuildYourOwnComputerPage :61 - Select ram from drop down list.8GB [+$60.00]from drop down[[ChromeDriver: chrome on windows (be02b262fb9ef5963e0295b2256d6b15)] -> id: product_attribute_2]
+2023-07-26 23:07:111 INFO  BuildYourOwnComputerPage :67 - Select HDD radio button.320 GB
+2023-07-26 23:07:262 INFO  BuildYourOwnComputerPage :82 - Select OS radio button.Vista Home [+$50.00]
+2023-07-26 23:07:575 INFO  BuildYourOwnComputerPage :111 - Click on add to cart button.[[ChromeDriver: chrome on windows (be02b262fb9ef5963e0295b2256d6b15)] -> id: add-to-cart-button-1]
+2023-07-26 23:07:956 INFO  BuildYourOwnComputerPage :116 - Verify product has been added text.[[ChromeDriver: chrome on windows (be02b262fb9ef5963e0295b2256d6b15)] -> xpath: //div[@class='bar-notification success']/p]
+2023-07-26 23:07:487 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (0f27b025b9d6f9a4a71aa607e21c7448)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:102 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (0f27b025b9d6f9a4a71aa607e21c7448)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-26 23:07:624 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (890eeaed9f5514747f7bfe1a6106a63a)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:131 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (890eeaed9f5514747f7bfe1a6106a63a)] -> id: Email]
+2023-07-26 23:07:306 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (890eeaed9f5514747f7bfe1a6106a63a)] -> name: Password]
+2023-07-26 23:07:343 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (890eeaed9f5514747f7bfe1a6106a63a)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:850 INFO  LoginPage :59 - Verify error message[[ChromeDriver: chrome on windows (890eeaed9f5514747f7bfe1a6106a63a)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2023-07-26 23:07:304 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (84ee5c5175caea946dff1840dc24ba73)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:705 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (84ee5c5175caea946dff1840dc24ba73)] -> id: Email]
+2023-07-26 23:07:928 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (84ee5c5175caea946dff1840dc24ba73)] -> name: Password]
+2023-07-26 23:07:977 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (84ee5c5175caea946dff1840dc24ba73)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:706 INFO  LoginPage :64 - Verify logout link.Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-26 23:07:108 INFO  HomePage :51 - Click on login link.[[ChromeDriver: chrome on windows (2406300d4fc0328f4c561c8ccf82ba5d)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-26 23:07:196 INFO  LoginPage :45 - Entering the email in the field : [[ChromeDriver: chrome on windows (2406300d4fc0328f4c561c8ccf82ba5d)] -> id: Email]
+2023-07-26 23:07:832 INFO  LoginPage :50 - Enter the password in the field : [[ChromeDriver: chrome on windows (2406300d4fc0328f4c561c8ccf82ba5d)] -> name: Password]
+2023-07-26 23:07:896 INFO  LoginPage :54 - Click on login button[[ChromeDriver: chrome on windows (2406300d4fc0328f4c561c8ccf82ba5d)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-26 23:07:939 INFO  LoginPage :69 - Click on logout link.Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-26 23:07:969 INFO  HomePage :56 - Click on register link.[[ChromeDriver: chrome on windows (8e4afdd05488ec02d9cac4826e406f61)] -> xpath: //a[contains(text(),'Register')]]
+2023-07-26 23:07:316 INFO  RegisterPage :81 - Verify register text[[ChromeDriver: chrome on windows (8e4afdd05488ec02d9cac4826e406f61)] -> xpath: //h1[contains(text(),'Register')]]
+2023-07-26 23:07:400 INFO  HomePage :56 - Click on register link.[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> xpath: //a[contains(text(),'Register')]]
+2023-07-26 23:07:833 INFO  RegisterPage :140 - Click on register button[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: register-button]
+2023-07-26 23:07:263 INFO  RegisterPage :144 - Verify first name error[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: FirstName-error]
+2023-07-26 23:07:550 INFO  RegisterPage :148 - Verify last name error[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: LastName-error]
+2023-07-26 23:07:224 INFO  RegisterPage :160 - Verify email error[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: Email-error]
+2023-07-26 23:07:373 INFO  RegisterPage :152 - Verify password error[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: Password-error]
+2023-07-26 23:07:553 INFO  RegisterPage :156 - Verify confirm password error[[ChromeDriver: chrome on windows (855d4efc43a93a50db46171380acc298)] -> id: ConfirmPassword-error]
